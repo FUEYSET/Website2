@@ -1,0 +1,13 @@
+body{
+    text-align:center;
+}
+h1{
+    color:firebrick;
+    text-align: center;
+}  
+a{
+    text-decoration: none;
+}
+.button{
+    background-color:chocolate;
+}
